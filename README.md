@@ -30,3 +30,12 @@ About **33.5%** of the Vine reviews had a 5-star rating.
 About **50.8%** of the Non-Vine reviews had a 5-star rating.
 
 ## Summary
+**Is there evident positivity bias?**
+The results of this analysis show that about 33% of the vine ratings were given a 5-star rating. From these results, we conclude that there is insufficient evidence to suggest positivity bias in Vine participants reviews in this product category. In summation, this analysis suggests that there is not a ias for positive reviews from Vine participants.
+
+**Further Analysis**
+There are a number of factors left unconsidered in this analysis. Some avenues that could be pursued for further analysis include:
+- Expanding to look at all the star reviews and plotting their distribution
+  - Looking at the not only the averages, but also the medians and modes can give us more insight.
+- Analyzing other product categories for comparison
+  - Consumers of books tends to represent a more niche audience, in a sense - there is a chance that consumers feel there is less of a benefit in giving a dishonest review given the subject material.
